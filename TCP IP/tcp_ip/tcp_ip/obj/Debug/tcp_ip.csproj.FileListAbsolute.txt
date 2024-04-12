@@ -1,0 +1,10 @@
+D:\visionpro练习\TCP IP\tcp_ip\tcp_ip\bin\Debug\tcp_ip.exe.config
+D:\visionpro练习\TCP IP\tcp_ip\tcp_ip\bin\Debug\tcp_ip.exe
+D:\visionpro练习\TCP IP\tcp_ip\tcp_ip\bin\Debug\tcp_ip.pdb
+D:\visionpro练习\TCP IP\tcp_ip\tcp_ip\obj\Debug\tcp_ip.csproj.AssemblyReference.cache
+D:\visionpro练习\TCP IP\tcp_ip\tcp_ip\obj\Debug\tcp_ip.Form1.resources
+D:\visionpro练习\TCP IP\tcp_ip\tcp_ip\obj\Debug\tcp_ip.Properties.Resources.resources
+D:\visionpro练习\TCP IP\tcp_ip\tcp_ip\obj\Debug\tcp_ip.csproj.GenerateResource.cache
+D:\visionpro练习\TCP IP\tcp_ip\tcp_ip\obj\Debug\tcp_ip.csproj.CoreCompileInputs.cache
+D:\visionpro练习\TCP IP\tcp_ip\tcp_ip\obj\Debug\tcp_ip.exe
+D:\visionpro练习\TCP IP\tcp_ip\tcp_ip\obj\Debug\tcp_ip.pdb

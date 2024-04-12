@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\visionpro\u7EC3\u4E60\\appwizard1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{29E47515-CE28-4D06-87F4-0DC52F6AD67E}|VisionControl\\VisionControl.csproj|d:\\visionpro\u7EC3\u4E60\\appwizard1\\visioncontrol\\utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29E47515-CE28-4D06-87F4-0DC52F6AD67E}|VisionControl\\VisionControl.csproj|solutionrelative:visioncontrol\\utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29E47515-CE28-4D06-87F4-0DC52F6AD67E}|VisionControl\\VisionControl.csproj|D:\\visionpro\u7EC3\u4E60\\appwizard1\\visioncontrol\\formpasswordprompt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{29E47515-CE28-4D06-87F4-0DC52F6AD67E}|VisionControl\\VisionControl.csproj|solutionrelative:visioncontrol\\formpasswordprompt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29E47515-CE28-4D06-87F4-0DC52F6AD67E}|VisionControl\\VisionControl.csproj|D:\\visionpro\u7EC3\u4E60\\appwizard1\\visioncontrol\\formconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{29E47515-CE28-4D06-87F4-0DC52F6AD67E}|VisionControl\\VisionControl.csproj|solutionrelative:visioncontrol\\formconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29E47515-CE28-4D06-87F4-0DC52F6AD67E}|VisionControl\\VisionControl.csproj|D:\\visionpro\u7EC3\u4E60\\appwizard1\\visioncontrol\\formappoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{29E47515-CE28-4D06-87F4-0DC52F6AD67E}|VisionControl\\VisionControl.csproj|solutionrelative:visioncontrol\\formappoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29E47515-CE28-4D06-87F4-0DC52F6AD67E}|VisionControl\\VisionControl.csproj|d:\\visionpro\u7EC3\u4E60\\appwizard1\\visioncontrol\\formabout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{29E47515-CE28-4D06-87F4-0DC52F6AD67E}|VisionControl\\VisionControl.csproj|solutionrelative:visioncontrol\\formabout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29E47515-CE28-4D06-87F4-0DC52F6AD67E}|VisionControl\\VisionControl.csproj|D:\\visionpro\u7EC3\u4E60\\appwizard1\\visioncontrol\\formsetpasswords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{29E47515-CE28-4D06-87F4-0DC52F6AD67E}|VisionControl\\VisionControl.csproj|solutionrelative:visioncontrol\\formsetpasswords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29E47515-CE28-4D06-87F4-0DC52F6AD67E}|VisionControl\\VisionControl.csproj|D:\\visionpro\u7EC3\u4E60\\appwizard1\\visioncontrol\\formqb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{29E47515-CE28-4D06-87F4-0DC52F6AD67E}|VisionControl\\VisionControl.csproj|solutionrelative:visioncontrol\\formqb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29E47515-CE28-4D06-87F4-0DC52F6AD67E}|VisionControl\\VisionControl.csproj|D:\\visionpro\u7EC3\u4E60\\appwizard1\\visioncontrol\\visioncontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{29E47515-CE28-4D06-87F4-0DC52F6AD67E}|VisionControl\\VisionControl.csproj|solutionrelative:visioncontrol\\visioncontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0135AB58-3551-425B-BF24-CF40606AEA54}|VisionApplication\\VisionApplication.csproj|D:\\visionpro\u7EC3\u4E60\\appwizard1\\visionapplication\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0135AB58-3551-425B-BF24-CF40606AEA54}|VisionApplication\\VisionApplication.csproj|solutionrelative:visionapplication\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0135AB58-3551-425B-BF24-CF40606AEA54}|VisionApplication\\VisionApplication.csproj|D:\\visionpro\u7EC3\u4E60\\appwizard1\\visionapplication\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0135AB58-3551-425B-BF24-CF40606AEA54}|VisionApplication\\VisionApplication.csproj|solutionrelative:visionapplication\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Utility.cs",
+              "DocumentMoniker": "D:\\visionpro\u7EC3\u4E60\\appwizard1\\VisionControl\\Utility.cs",
+              "RelativeDocumentMoniker": "VisionControl\\Utility.cs",
+              "ToolTip": "D:\\visionpro\u7EC3\u4E60\\appwizard1\\VisionControl\\Utility.cs",
+              "RelativeToolTip": "VisionControl\\Utility.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAkwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T01:45:11.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormAbout.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\visionpro\u7EC3\u4E60\\appwizard1\\VisionControl\\FormAbout.cs",
+              "RelativeDocumentMoniker": "VisionControl\\FormAbout.cs",
+              "ToolTip": "D:\\visionpro\u7EC3\u4E60\\appwizard1\\VisionControl\\FormAbout.cs [\u8BBE\u8BA1]*",
+              "RelativeToolTip": "VisionControl\\FormAbout.cs [\u8BBE\u8BA1]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T01:37:23.702Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormAppOptions.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\visionpro\u7EC3\u4E60\\appwizard1\\VisionControl\\FormAppOptions.cs",
+              "RelativeDocumentMoniker": "VisionControl\\FormAppOptions.cs",
+              "ToolTip": "D:\\visionpro\u7EC3\u4E60\\appwizard1\\VisionControl\\FormAppOptions.cs [\u8BBE\u8BA1]*",
+              "RelativeToolTip": "VisionControl\\FormAppOptions.cs [\u8BBE\u8BA1]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T01:37:22.926Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormConfig.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\visionpro\u7EC3\u4E60\\appwizard1\\VisionControl\\FormConfig.cs",
+              "RelativeDocumentMoniker": "VisionControl\\FormConfig.cs",
+              "ToolTip": "D:\\visionpro\u7EC3\u4E60\\appwizard1\\VisionControl\\FormConfig.cs [\u8BBE\u8BA1]*",
+              "RelativeToolTip": "VisionControl\\FormConfig.cs [\u8BBE\u8BA1]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T01:37:21.76Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormPasswordPrompt.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\visionpro\u7EC3\u4E60\\appwizard1\\VisionControl\\FormPasswordPrompt.cs",
+              "RelativeDocumentMoniker": "VisionControl\\FormPasswordPrompt.cs",
+              "ToolTip": "D:\\visionpro\u7EC3\u4E60\\appwizard1\\VisionControl\\FormPasswordPrompt.cs [\u8BBE\u8BA1]*",
+              "RelativeToolTip": "VisionControl\\FormPasswordPrompt.cs [\u8BBE\u8BA1]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T01:37:20.827Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormSetPasswords.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\visionpro\u7EC3\u4E60\\appwizard1\\VisionControl\\FormSetPasswords.cs",
+              "RelativeDocumentMoniker": "VisionControl\\FormSetPasswords.cs",
+              "ToolTip": "D:\\visionpro\u7EC3\u4E60\\appwizard1\\VisionControl\\FormSetPasswords.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "VisionControl\\FormSetPasswords.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T01:37:17.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormQB.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\visionpro\u7EC3\u4E60\\appwizard1\\VisionControl\\FormQB.cs",
+              "RelativeDocumentMoniker": "VisionControl\\FormQB.cs",
+              "ToolTip": "D:\\visionpro\u7EC3\u4E60\\appwizard1\\VisionControl\\FormQB.cs [\u8BBE\u8BA1]*",
+              "RelativeToolTip": "VisionControl\\FormQB.cs [\u8BBE\u8BA1]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T01:37:16.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "VisionControl.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\visionpro\u7EC3\u4E60\\appwizard1\\VisionControl\\VisionControl.cs",
+              "RelativeDocumentMoniker": "VisionControl\\VisionControl.cs",
+              "ToolTip": "D:\\visionpro\u7EC3\u4E60\\appwizard1\\VisionControl\\VisionControl.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "VisionControl\\VisionControl.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T01:37:13.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\visionpro\u7EC3\u4E60\\appwizard1\\VisionApplication\\Form1.cs",
+              "RelativeDocumentMoniker": "VisionApplication\\Form1.cs",
+              "ToolTip": "D:\\visionpro\u7EC3\u4E60\\appwizard1\\VisionApplication\\Form1.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "VisionApplication\\Form1.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T01:36:55.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\visionpro\u7EC3\u4E60\\appwizard1\\VisionApplication\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "VisionApplication\\Form1.Designer.cs",
+              "ToolTip": "D:\\visionpro\u7EC3\u4E60\\appwizard1\\VisionApplication\\Form1.Designer.cs",
+              "RelativeToolTip": "VisionApplication\\Form1.Designer.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAiwA0AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T01:36:40.736Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
